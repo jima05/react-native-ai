@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dabit3/react-native-ai"
+    "url": ""
   },
   "dependencies": {
     "@inquirer/prompts": "^3.1.1",
